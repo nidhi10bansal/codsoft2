@@ -25,5 +25,3 @@ break;
 return 0;
 }
 
-
-re
